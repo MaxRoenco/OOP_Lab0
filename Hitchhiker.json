@@ -1,0 +1,66 @@
+{"input": [
+    {
+        "specie": "Betelgeusian",
+        "isHumanoid": true,
+        "traits": [
+            "EXTRA_ARMS",
+            "EXTRA_HEAD"
+        ],
+        "planet": "Betelgeuse",
+        "universe": "Hitchhiker",
+        "id": 3,
+        "age": 59
+    },
+    {
+        "specie": "Vogons",
+        "isHumanoid": false,
+        "traits": [
+            "GREEN",
+            "BULKY"
+        ],
+        "planet": "Vogsphere",
+        "universe": "Hitchhiker",
+        "id": 4,
+        "age": 128
+    },
+    {
+        "specie": "Betelgeusian",
+        "traits": [
+            "EXTRA_ARMS",
+            "EXTRA_HEAD"
+        ],
+        "planet": "Betelgeuse",
+        "universe": "Hitchhiker",
+        "id": 10,
+        "age": 45
+    },
+    {
+        "specie": "Vogons",
+        "isHumanoid": false,
+        "traits": ["GREEN"],
+        "universe": "Hitchhiker",
+        "id": 11,
+        "age": 128
+    },
+    {
+        "specie": "Betelgeusian",
+        "traits": ["EXTRA_ARMS"],
+        "universe": "Hitchhiker",
+        "id": 17,
+        "age": 26
+    },
+    {
+        "specie": "Vogons",
+        "isHumanoid": false,
+        "traits": ["BULKY"],
+        "universe": "Hitchhiker",
+        "id": 18
+    },
+    {
+        "specie": "Betelgeusian",
+        "traits": ["EXTRA_HEAD"],
+        "universe": "Hitchhiker",
+        "id": 21,
+        "age": 82
+    }
+]}

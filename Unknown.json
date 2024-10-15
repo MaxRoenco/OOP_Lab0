@@ -1,0 +1,12 @@
+{"input": [{
+    "specie": "Unknown specie",
+    "isHumanoid": true,
+    "traits": [
+        "BLONDE",
+        "TALL"
+    ],
+    "planet": "Earth",
+    "universe": "Unknown",
+    "id": 19,
+    "age": 451
+}]}

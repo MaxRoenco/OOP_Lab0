@@ -1,0 +1,51 @@
+{"input": [
+    {
+        "specie": "Elf",
+        "isHumanoid": true,
+        "traits": [
+            "BLONDE",
+            "POINTY_EARS"
+        ],
+        "planet": "Earth",
+        "universe": "Lord of the rings",
+        "id": 5,
+        "age": 451
+    },
+    {
+        "specie": "Dwarf",
+        "isHumanoid": true,
+        "traits": [
+            "SHORT",
+            "BULKY"
+        ],
+        "planet": "Earth",
+        "universe": "Lord of the rings",
+        "id": 6,
+        "age": 124
+    },
+    {
+        "specie": "Elf",
+        "isHumanoid": true,
+        "traits": [],
+        "universe": "Lord of the rings",
+        "id": 12,
+        "age": 7523
+    },
+    {
+        "specie": "Dwarf",
+        "traits": [
+            "SHORT",
+            "BULKY"
+        ],
+        "planet": "Earth",
+        "universe": "Lord of the rings",
+        "id": 13
+    },
+    {
+        "specie": "Dwarf",
+        "isHumanoid": true,
+        "traits": ["BULKY"],
+        "universe": "Lord of the rings",
+        "id": 20
+    }
+]}

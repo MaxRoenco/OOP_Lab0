@@ -1,0 +1,64 @@
+{"input": [
+    {
+        "specie": "Wookie",
+        "isHumanoid": false,
+        "traits": [
+            "HAIRY",
+            "TALL"
+        ],
+        "planet": "Kashyyyk",
+        "universe": "Star Wars",
+        "id": 0,
+        "age": 253
+    },
+    {
+        "specie": "Ewok",
+        "isHumanoid": false,
+        "traits": [
+            "HAIRY",
+            "SHORT"
+        ],
+        "planet": "Endor",
+        "universe": "Star Wars",
+        "id": 1,
+        "age": 34
+    },
+    {
+        "specie": "Wookie",
+        "traits": [
+            "HAIRY",
+            "TALL"
+        ],
+        "planet": "Kashyyyk",
+        "universe": "Star Wars",
+        "id": 7,
+        "age": 352
+    },
+    {
+        "specie": "Ewok",
+        "isHumanoid": false,
+        "traits": [],
+        "planet": "Endor",
+        "universe": "Star Wars",
+        "id": 8,
+        "age": 22
+    },
+    {
+        "specie": "Wookie",
+        "isHumanoid": false,
+        "traits": [
+            "HAIRY",
+            "TALL"
+        ],
+        "universe": "Star Wars",
+        "id": 14,
+        "age": 253
+    },
+    {
+        "specie": "Ewok",
+        "traits": [],
+        "planet": "Endor",
+        "universe": "Star Wars",
+        "id": 15
+    }
+]}
