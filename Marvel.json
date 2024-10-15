@@ -1,0 +1,36 @@
+{"input": [
+    {
+        "specie": "Asgardian",
+        "isHumanoid": true,
+        "traits": [
+            "BLONDE",
+            "TALL"
+        ],
+        "planet": "Asgard",
+        "universe": "Marvel",
+        "id": 2,
+        "age": 2034
+    },
+    {
+        "specie": "Asgardian",
+        "isHumanoid": true,
+        "traits": [
+            "BLONDE",
+            "TALL"
+        ],
+        "planet": "Asgard",
+        "universe": "Marvel",
+        "id": 9
+    },
+    {
+        "specie": "Asgardian",
+        "isHumanoid": true,
+        "traits": [
+            "BLONDE",
+            "TALL"
+        ],
+        "universe": "Marvel",
+        "id": 16,
+        "age": 154
+    }
+]}
